@@ -1,2 +1,3 @@
-# This is a H1 Header
-## This is H2 Header
+# This is a Sample Header
+
+### How it looks  ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
