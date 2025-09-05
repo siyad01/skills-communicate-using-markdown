@@ -11,3 +11,7 @@
 ``` javascript
 var myVariable = "Hello, Welcome to my page";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
